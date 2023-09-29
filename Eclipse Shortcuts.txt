@@ -1,0 +1,24 @@
+ 1)Searching  =  ctrl + shift + r 
+     (if file name is not known then use *__ to search ) 
+ 2)To open predifined classes  =  ctrl + shft + t 
+ 3)To close one  open  file (ctrl + w)
+ 4)To close all open file(ctrl+ shift +w)
+ 5)To delete one line = ctrl + d
+ 6)To organized all imports = ctrl + shift + o
+ 7)To formatted in well structure =   ctrl + shift + f
+ 8)Single line comment = ctrl + /
+ 9)Multi line comment  = (select that lines) + ctrl + sfift + /
+10)For Uncomment  multiple lines = ctrl + shift + \
+11)To generate getters and setters = alt + shift + s + r
+12)To generate  toString() method = alt + shift + s + s
+13)TO generate constructor for all the fileds =  alt + shift + s + o
+14)To display complete outline of class = ctrl + o 
+  (if press again it will give super class method also) 
+15)To go to close brace of any class,mthd =  ctrl + shift + p
+   (First take cursor on open brace)
+16)To add blank line = ctrl + shift + enter
+17)To storing return value of method in veriable = ctrl + 1 + enter
+  (First keep cursor at end of end line)
+18)To go to priviously edited place = ctrl + q 
+19)To surroud block by try catch block =  alt + shift + z
+   (First select that block)
